@@ -26,7 +26,7 @@ SECRET_KEY = "django-insecure-mv7+o=bw6ekgi@@_&f(ol(d@q837*&^uui7tfrw-f3n#z%3#!+
 DEBUG = True
 
 # Allow all hosts
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'probable-space-engine-g4665g7w5vwrfg9q-8000.app.github.dev']
 
 
 # Application definition
